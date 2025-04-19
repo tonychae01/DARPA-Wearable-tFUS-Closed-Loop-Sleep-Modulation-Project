@@ -26,6 +26,9 @@ A real-time closed-loop sleep modulation platform integrating multi-modal EEG/EM
 ---
 
 ## Methodology
+![image](https://github.com/user-attachments/assets/678cf1c0-3576-4fb5-90ea-9882de4f25f7)
+![image](https://github.com/user-attachments/assets/1b8b8871-d19b-45e9-8781-afc31e7e9432)
+
 1. **Data Acquisition**  
    - Six‑channel NEUSLeeP bio‑adhesive interface (4 EEG, 1 EMG, 1 EOG) and BrainVision 32‑channel system.  
    - IRB‑approved PTSD dataset from military personnel, annotated per AASM guidelines.
@@ -69,10 +72,6 @@ A real-time closed-loop sleep modulation platform integrating multi-modal EEG/EM
 ![image](https://github.com/user-attachments/assets/4e7c78e3-8f39-4faa-a32e-27e5bb029091)
 
 
-
-
-![image](https://github.com/user-attachments/assets/678cf1c0-3576-4fb5-90ea-9882de4f25f7)
-![image](https://github.com/user-attachments/assets/1b8b8871-d19b-45e9-8781-afc31e7e9432)
 
 ---
 
