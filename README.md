@@ -19,10 +19,10 @@ A real-time closed-loop sleep modulation platform integrating multi-modal EEG/EM
 - **Naïve Bayesian Integration (NBI) Smoothing:** Introduced a Bayesian smoothing layer inspired by prosthetic control to reduce transient misclassifications, improving stability in real-time applications by 45%.
 - **Real-Time GUI & Closed‑Loop Control:** Developed a PyQt5 interface with live EEG/EOG/EMG visualization, hypnogram plotting, and automated ultrasound triggers via serial communication.
 
+
+![image](https://github.com/user-attachments/assets/2efd78e8-55fa-48bd-b009-c983bf789852)
   
 ![image](https://github.com/user-attachments/assets/cc5520e1-9ccd-40ca-a31c-419c803324f6)
-![image](https://github.com/user-attachments/assets/2efd78e8-55fa-48bd-b009-c983bf789852)
-
 ---
 
 ## Methodology
