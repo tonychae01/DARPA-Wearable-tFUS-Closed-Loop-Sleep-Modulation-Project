@@ -8,7 +8,15 @@
 ---
 
 ## Project Overview
-A real-time closed-loop sleep modulation platform integrating multi-modal EEG/EMG/EOG recordings with focused ultrasound stimulation. Developed under Dr. Huiliang Wang’s DARPA-funded research to stabilize sleep stages via AI-driven classification and a bio-adhesive neural interface.
+A real-time closed-loop sleep modulation platform integrating multi-modal EEG/EMG/EOG recordings with focused ultrasound stimulation. Developed and written by **Tony Chae** under Dr. Huiliang Wang’s DARPA-funded research to stabilize sleep stages via AI-driven classification and a bio-adhesive neural interface. 
+
+---
+
+## Technologies & Tools
+- **Frameworks:** Python, PyTorch, Scikit‑learn, XGBoost, PyQt5, PyQtGraph, YASA, MNE.  
+- **Hardware:** NEUSLeeP bio‑adhesive elastomer electrodes, Focused Ultrasound Stimulation device.  
+- **Protocols:** IRB‑approved data collection, AASM sleep staging.
+
 
 ---
 
@@ -83,27 +91,9 @@ A real-time closed-loop sleep modulation platform integrating multi-modal EEG/EM
 
 ---
 
-## Technologies & Tools
-- **Frameworks:** Python, PyTorch, Scikit‑learn, XGBoost, PyQt5, PyQtGraph, YASA, MNE.  
-- **Hardware:** NEUSLeeP bio‑adhesive elastomer electrodes, Focused Ultrasound Stimulation device.  
-- **Protocols:** IRB‑approved data collection, AASM sleep staging.
-
----
-
 ## Usage
-1. **Clone the repository:**  
-   ```bash
-   git clone https://github.com/yourusername/sleep-modulation-system.git
-   ```
-2. **Install dependencies:**  
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Launch the GUI:**  
-   ```bash
-   python realtimecode_final.py
-   ```
-4. **Configuration:** Edit `config.json` to set serial port, probability thresholds, and stimulation parameters.
+
+This DARPA-funded project remains pre-publication and proprietary. The entire codebase, figures, and system design are confidential and not publicly available. Unauthorized copying, distribution, or external use is strictly prohibited. All software implementation—including AI algorithms—figures, and development were devised and implemented by Tony Chae in collaboration with the Wang Biomedical Research Laboratory.
 
 ---
 
