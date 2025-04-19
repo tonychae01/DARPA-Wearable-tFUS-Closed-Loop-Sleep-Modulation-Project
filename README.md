@@ -65,9 +65,9 @@ A real-time closed-loop sleep modulation platform integrating multi-modal EEG/EM
    - Automated stimulation logic: N2 spindle detection (YASA) + thresholded sleep probability → ultrasound trigger via serial port.
    - 
 ![image](https://github.com/user-attachments/assets/d4967e3a-f8a8-4628-a3a4-8ff945490b84)
+![image](https://github.com/user-attachments/assets/5c803071-9271-4121-bb9f-54670ac703c5)
 
 
-![image](https://github.com/user-attachments/assets/72addf19-bfc0-47c2-867e-0ca6daeeeb7c)
 
 ![image](https://github.com/user-attachments/assets/678cf1c0-3576-4fb5-90ea-9882de4f25f7)
 ![image](https://github.com/user-attachments/assets/1b8b8871-d19b-45e9-8781-afc31e7e9432)
