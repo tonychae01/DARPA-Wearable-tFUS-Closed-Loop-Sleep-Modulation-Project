@@ -21,8 +21,7 @@ A real-time closed-loop sleep modulation platform integrating multi-modal EEG/EM
 
 
 ![image](https://github.com/user-attachments/assets/2efd78e8-55fa-48bd-b009-c983bf789852)
-  
-![image](https://github.com/user-attachments/assets/cc5520e1-9ccd-40ca-a31c-419c803324f6)
+
 ---
 
 ## Methodology
