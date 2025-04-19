@@ -35,6 +35,7 @@ A real-time closed-loop sleep modulation platform integrating multi-modal EEG/EM
    - Artifact rejection via ICA and threshold‑based outlier detection.  
    - Sliding 30 s windows at 512 Hz sampling rate.
 ![image](https://github.com/user-attachments/assets/527fcae3-e189-4a10-a225-fa132037d03e)
+
 3. **Feature Engineering**  
    - **Time-domain:** mean, variance, skewness, kurtosis, entropy.  
    - **Frequency-domain:** power spectral density (4–30 Hz bands), peak frequency, band ratios (α/θ, γ/δ).  
@@ -45,6 +46,7 @@ A real-time closed-loop sleep modulation platform integrating multi-modal EEG/EM
    - **Traditional ML:** Random Forest (100 trees, Gini), SVM (RBF, C=1.0, γ='scale'), XGBoost (η=0.05, max_depth=8).  
    - **Deep Learning:** Parallel 1D CNN (filters=64, kernel_size=3) + LSTM (units=128) with dropout=0.3.  
    - 29‑fold cross‑validation; metrics: accuracy, F1‑score, Cohen’s κ.
+   
 ![image](https://github.com/user-attachments/assets/f853d026-6cba-4508-9129-d88af1505e68)
 
 5. **Transfer Learning**  
@@ -52,6 +54,8 @@ A real-time closed-loop sleep modulation platform integrating multi-modal EEG/EM
 
 6. **NBI Smoothing**  
    - Bayesian integration over a 3‑epoch sliding window to stabilize predictions and reduce oscillatory errors.
+  
+     
 ![image](https://github.com/user-attachments/assets/463531ce-6f0d-4837-b61a-303985141241)
 ![image](https://github.com/user-attachments/assets/73fc040f-0cf6-400c-bd77-f9c5126c8a99)
 ![image](https://github.com/user-attachments/assets/41146afb-ef1f-4180-aec1-7648bebdb708)
