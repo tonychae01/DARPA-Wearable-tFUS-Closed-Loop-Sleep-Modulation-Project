@@ -18,6 +18,8 @@ A real-time closed-loop sleep modulation platform integrating multi-modal EEG/EM
 - **Transfer Learning for Generalization:** Pretrained on the ANPHY‑29 open-source EEG dataset and fine-tuned on NEUSLeeP data, yielding 89.6% accuracy on unseen subjects and mitigating overfitting.
 - **Naïve Bayesian Integration (NBI) Smoothing:** Introduced a Bayesian smoothing layer inspired by prosthetic control to reduce transient misclassifications, improving stability in real-time applications by 45%.
 - **Real-Time GUI & Closed‑Loop Control:** Developed a PyQt5 interface with live EEG/EOG/EMG visualization, hypnogram plotting, and automated ultrasound triggers via serial communication.
+
+  
 ![image](https://github.com/user-attachments/assets/cc5520e1-9ccd-40ca-a31c-419c803324f6)
 ![image](https://github.com/user-attachments/assets/2efd78e8-55fa-48bd-b009-c983bf789852)
 
@@ -32,7 +34,7 @@ A real-time closed-loop sleep modulation platform integrating multi-modal EEG/EM
    - Bandpass filtering (0.5–45 Hz) and notch filtering at 60 Hz.  
    - Artifact rejection via ICA and threshold‑based outlier detection.  
    - Sliding 30 s windows at 512 Hz sampling rate.
-
+![image](https://github.com/user-attachments/assets/527fcae3-e189-4a10-a225-fa132037d03e)
 3. **Feature Engineering**  
    - **Time-domain:** mean, variance, skewness, kurtosis, entropy.  
    - **Frequency-domain:** power spectral density (4–30 Hz bands), peak frequency, band ratios (α/θ, γ/δ).  
@@ -64,7 +66,7 @@ A real-time closed-loop sleep modulation platform integrating multi-modal EEG/EM
 
 ![image](https://github.com/user-attachments/assets/1b8b8871-d19b-45e9-8781-afc31e7e9432)
 ![image](https://github.com/user-attachments/assets/678cf1c0-3576-4fb5-90ea-9882de4f25f7)
-![image](https://github.com/user-attachments/assets/527fcae3-e189-4a10-a225-fa132037d03e)
+
 
 ---
 
