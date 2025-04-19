@@ -63,7 +63,8 @@ A real-time closed-loop sleep modulation platform integrating multi-modal EEG/EM
 7. **Real‑Time System & GUI**  
    - PyQt5 application with PyQtGraph for live signal plotting and hypnogram rendering.  
    - Automated stimulation logic: N2 spindle detection (YASA) + thresholded sleep probability → ultrasound trigger via serial port.
-   - 
+
+![image](https://github.com/user-attachments/assets/72addf19-bfc0-47c2-867e-0ca6daeeeb7c)
 ![image](https://github.com/user-attachments/assets/d4967e3a-f8a8-4628-a3a4-8ff945490b84)
 ![image](https://github.com/user-attachments/assets/5c803071-9271-4121-bb9f-54670ac703c5)
 
