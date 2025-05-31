@@ -1,5 +1,5 @@
 
-# DARPA-funded, Close-loop Wearable Transcranial Ultrasound-based Sleep Modulation System
+# DARPA-funded, Close-loop Wearable Transcranial Ultrasound-based Sleep Modulation System (Ongoing)
 
 **Dates of Participation:** March 10, 2024 – Present  
 **Laboratory:** Wang Biomedical Research Laboratory, UT Austin
